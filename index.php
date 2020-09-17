@@ -248,7 +248,7 @@
                         <a href="index.html" class="nav__logo">FY Board</a>
                     </div>
                     <div class="nav__list">
-                        <a href="index.html" class="nav__link active">
+                        <a href="index.php" class="nav__link active">
                             <ion-icon name="home-outline" class="nav__icon"></ion-icon>
                             <span class="nav__name">Home</span>
                         </a>
